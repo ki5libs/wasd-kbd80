@@ -7475,7 +7475,7 @@
       (net 91 "Net-(R1-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7523,7 +7523,7 @@
       (net 92 "Net-(R2-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7571,7 +7571,7 @@
       (net 93 "Net-(R3-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7619,7 +7619,7 @@
       (net 94 "Net-(R4-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7667,7 +7667,7 @@
       (net 95 "Net-(R5-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7715,7 +7715,7 @@
       (net 6 "Net-(D6-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 212 /COL0))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7763,7 +7763,7 @@
       (net 7 "Net-(D7-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 212 /COL0))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7811,7 +7811,7 @@
       (net 98 "Net-(R8-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7859,7 +7859,7 @@
       (net 9 "Net-(D9-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 212 /COL0))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7907,7 +7907,7 @@
       (net 100 "Net-(R10-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7955,7 +7955,7 @@
       (net 101 "Net-(R11-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8003,7 +8003,7 @@
       (net 12 "Net-(D12-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 212 /COL0))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8051,7 +8051,7 @@
       (net 103 "Net-(R13-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8099,7 +8099,7 @@
       (net 14 "Net-(D14-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 213 /COL1))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8147,7 +8147,7 @@
       (net 15 "Net-(D15-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 213 /COL1))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8195,7 +8195,7 @@
       (net 106 "Net-(R16-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8243,7 +8243,7 @@
       (net 17 "Net-(D17-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 213 /COL1))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8291,7 +8291,7 @@
       (net 18 "Net-(D18-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 213 /COL1))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8339,7 +8339,7 @@
       (net 109 "Net-(R19-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8387,7 +8387,7 @@
       (net 20 "Net-(D20-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 213 /COL1))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8435,7 +8435,7 @@
       (net 111 "Net-(R21-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8483,7 +8483,7 @@
       (net 112 "Net-(R22-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8531,7 +8531,7 @@
       (net 113 "Net-(R23-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8579,7 +8579,7 @@
       (net 114 "Net-(R24-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8627,7 +8627,7 @@
       (net 25 "Net-(D25-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 214 /COL2))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8675,7 +8675,7 @@
       (net 116 "Net-(R26-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8723,7 +8723,7 @@
       (net 117 "Net-(R27-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8771,7 +8771,7 @@
       (net 118 "Net-(R28-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8819,7 +8819,7 @@
       (net 119 "Net-(R29-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8867,7 +8867,7 @@
       (net 120 "Net-(R30-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8915,7 +8915,7 @@
       (net 121 "Net-(R31-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8963,7 +8963,7 @@
       (net 186 /32LED))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9011,7 +9011,7 @@
       (net 122 "Net-(R33-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9059,7 +9059,7 @@
       (net 123 "Net-(R34-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9107,7 +9107,7 @@
       (net 34 "Net-(D35-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 214 /COL2))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9155,7 +9155,7 @@
       (net 36 "Net-(D37-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9203,7 +9203,7 @@
       (net 37 "Net-(D38-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9251,7 +9251,7 @@
       (net 38 "Net-(D39-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9299,7 +9299,7 @@
       (net 39 "Net-(D40-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9347,7 +9347,7 @@
       (net 40 "Net-(D41-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9395,7 +9395,7 @@
       (net 131 "Net-(R42-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9443,7 +9443,7 @@
       (net 42 "Net-(D43-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9491,7 +9491,7 @@
       (net 43 "Net-(D44-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9539,7 +9539,7 @@
       (net 44 "Net-(D45-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9587,7 +9587,7 @@
       (net 45 "Net-(D46-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9635,7 +9635,7 @@
       (net 46 "Net-(D47-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9683,7 +9683,7 @@
       (net 47 "Net-(D48-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 215 /COL3))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9731,7 +9731,7 @@
       (net 139 "Net-(R50-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9779,7 +9779,7 @@
       (net 140 "Net-(R51-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9827,7 +9827,7 @@
       (net 141 "Net-(R52-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9875,7 +9875,7 @@
       (net 143 "Net-(R54-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9923,7 +9923,7 @@
       (net 144 "Net-(R55-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9971,7 +9971,7 @@
       (net 145 "Net-(R56-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10019,7 +10019,7 @@
       (net 146 "Net-(R57-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10067,7 +10067,7 @@
       (net 147 "Net-(R58-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10115,7 +10115,7 @@
       (net 148 "Net-(R59-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10163,7 +10163,7 @@
       (net 149 "Net-(R60-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10211,7 +10211,7 @@
       (net 150 "Net-(R61-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10259,7 +10259,7 @@
       (net 151 "Net-(R62-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10307,7 +10307,7 @@
       (net 62 "Net-(D63-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10355,7 +10355,7 @@
       (net 63 "Net-(D64-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10403,7 +10403,7 @@
       (net 64 "Net-(D65-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10451,7 +10451,7 @@
       (net 209 /67D))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10499,7 +10499,7 @@
       (net 65 "Net-(D68-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10547,7 +10547,7 @@
       (net 66 "Net-(D69-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10595,7 +10595,7 @@
       (net 67 "Net-(D70-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10643,7 +10643,7 @@
       (net 68 "Net-(D71-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10691,7 +10691,7 @@
       (net 69 "Net-(D72-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 217 /COL5))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10739,7 +10739,7 @@
       (net 70 "Net-(D73-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10787,7 +10787,7 @@
       (net 71 "Net-(D74-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10835,7 +10835,7 @@
       (net 72 "Net-(D75-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10883,7 +10883,7 @@
       (net 73 "Net-(D76-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10931,7 +10931,7 @@
       (net 74 "Net-(D77-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10979,7 +10979,7 @@
       (net 75 "Net-(D78-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11027,7 +11027,7 @@
       (net 166 "Net-(R79-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11075,7 +11075,7 @@
       (net 77 "Net-(D81-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11123,7 +11123,7 @@
       (net 78 "Net-(D82-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11171,7 +11171,7 @@
       (net 169 "Net-(R83-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11219,7 +11219,7 @@
       (net 173 "Net-(R87-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11271,7 +11271,7 @@
       (net 186 /32LED))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11319,7 +11319,7 @@
       (net 125 "Net-(R36-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11367,7 +11367,7 @@
       (net 142 "Net-(R53-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.75u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11415,7 +11415,7 @@
       (net 138 "Net-(R49-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11467,7 +11467,7 @@
       (net 188 /67LED))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11519,7 +11519,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 189 /80LED))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.75u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11567,7 +11567,7 @@
       (net 189 /80LED))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.75u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11757,7 +11757,7 @@
       (net 183 "Net-(R96-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11805,7 +11805,7 @@
       (net 184 "Net-(R97-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11853,7 +11853,7 @@
       (net 80 "Net-(D84-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 218 /COL6))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11901,7 +11901,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 171 "Net-(R85-Pad1)"))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11949,7 +11949,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 172 "Net-(R86-Pad1)"))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12001,7 +12001,7 @@
       (net 190 /88LED))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_6.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12049,7 +12049,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 176 "Net-(R91-Pad1)"))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12097,7 +12097,7 @@
       (net 87 "Net-(D92-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 219 /COL7))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12145,7 +12145,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 178 "Net-(R93-Pad1)"))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12193,7 +12193,7 @@
       (net 89 "Net-(D94-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 219 /COL7))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12241,7 +12241,7 @@
       (net 180 "Net-(R95-Pad1)"))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12289,7 +12289,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 174 "Net-(R89-Pad1)"))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12337,7 +12337,7 @@
       (net 85 "Net-(D90-Pad2)"))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask)
       (net 219 /COL7))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12389,7 +12389,7 @@
       (net 221 +5V))
     (pad 3 thru_hole circle (at -1.27 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 190 /88LED))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.75u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12441,7 +12441,7 @@
       (net 187 /66LED))
     (pad 4 thru_hole circle (at -3.81 10.16 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.25u_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12495,7 +12495,7 @@
       (net 187 /66LED))
     (pad 4 thru_hole circle (at -3.81 10.16 270) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 221 +5V))
-    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_ISOEnter_PCB.wrl
+    (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB_LED_NULL.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13813,12 +13813,6 @@
   (gr_line (start 393.5 100) (end 393.5 217) (layer Eco1.User) (width 0.2) (tstamp 5D73D4C1))
   (gr_line (start 50 100) (end 50 217) (layer Eco1.User) (width 0.2))
 
-  (via (at 181.3 132.8) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E0))
-  (via (at 181.3 131.8) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E0))
-  (via (at 181.3 130.8) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E0))
-  (via (at 177.6 131.9) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E4))
-  (via (at 177.6 132.9) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E5))
-  (via (at 177.6 130.9) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E6))
   (segment (start 64.22 109) (end 63.8 109.42) (width 0.25) (layer B.Cu) (net 1))
   (segment (start 64.515 109) (end 64.22 109) (width 0.25) (layer B.Cu) (net 1))
   (segment (start 63.8 109.42) (end 63.8 114.4) (width 0.25) (layer B.Cu) (net 1))
@@ -16490,6 +16484,12 @@
   (segment (start 134.2 214.601002) (end 129.501002 219.3) (width 0.25) (layer F.Cu) (net 219))
   (segment (start 134.2 212.9) (end 134.2 214.601002) (width 0.25) (layer F.Cu) (net 219))
   (segment (start 129.501002 219.3) (end 128.5 219.3) (width 0.25) (layer F.Cu) (net 219))
+  (via (at 181.3 132.8) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E0))
+  (via (at 181.3 131.8) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E0))
+  (via (at 181.3 130.8) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E0))
+  (via (at 177.6 131.9) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E4))
+  (via (at 177.6 132.9) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E5))
+  (via (at 177.6 130.9) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA68E6))
   (via (at 197.4 116.3) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA3D3B))
   (via (at 197.4 114.6) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220) (tstamp 5DFA3D3B))
   (via (at 54.3 107) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 220))
