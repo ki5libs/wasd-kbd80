@@ -1,9 +1,9 @@
-# WASD-keyboard
+# WASD-kbd80
 
 80% mechanical switch keyboard
 
-![Rendering of top layer with ANSI](renderings/wasd-keyboard_ANSI_top.png)
-![Rendering of bot layer with ANSI](renderings/wasd-keyboard_ANSI_bot.png)
+![Rendering of top layer with ANSI](renderings/wasd-kbd80_ANSI_top.png)
+![Rendering of bot layer with ANSI](renderings/wasd-kbd80_ANSI_bot.png)
 
 
 ## Goal Features
